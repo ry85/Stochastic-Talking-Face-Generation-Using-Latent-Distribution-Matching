@@ -1,6 +1,9 @@
 # Stochastic-Talking-Face-Generation
 This is the official [PyTorch] implementation of our Interspeech'20 paper "Stochastic Talking Face Generation Using Latent Distribution Matching".
 
+Paper Link:
+https://www.isca-speech.org/archive/Interspeech_2020/pdfs/1823.pdf
+
 Demo:
 https://user-images.githubusercontent.com/26645173/119601305-837caf80-be06-11eb-83e5-b19ed9216ac9.mp4
 
